@@ -145,7 +145,4 @@ Permite **agregar nombres**, **validarlos**, **listarlos en pantalla** y **sorte
 
 ---
 
-## 📜 Licencia
-
-Este proyecto es de uso educativo y libre de adaptar en tus prácticas o clases. Añade una licencia formal (MIT/Apache-2.0) si piensas publicarlo.
 
